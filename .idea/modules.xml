@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Partylocation/Partylocation.iml" filepath="$PROJECT_DIR$/Partylocation/Partylocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UebungErsteSeite/UebungErsteSeite.iml" filepath="$PROJECT_DIR$/UebungErsteSeite/UebungErsteSeite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Webdesign.iml" filepath="$PROJECT_DIR$/.idea/Webdesign.iml" />
+    </modules>
+  </component>
+</project>
