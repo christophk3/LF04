@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05b55b72-43e4-4df3-a4b6-4a67c273cc6d" name="Changes" comment="ok">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Webdesign.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Partylocation/Partylocation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Partylocation/inhalte/seite/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Partylocation/inhalte/style/monitor.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UebungErsteSeite/UebungErsteSeite.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UebungErsteSeite/image/bangalore.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UebungErsteSeite/index.html" afterDir="false" />
+    <list default="true" id="05b55b72-43e4-4df3-a4b6-4a67c273cc6d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Partylocation/inhalte/seite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Partylocation/inhalte/seite/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Partylocation/inhalte/style/monitor.css" beforeDir="false" afterPath="$PROJECT_DIR$/Partylocation/inhalte/style/monitor.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,8 +57,17 @@
       <workItem from="1662445619682" duration="2445000" />
       <workItem from="1662448120190" duration="89000" />
       <workItem from="1662448233616" duration="1859000" />
-      <workItem from="1663581269781" duration="4903000" />
+      <workItem from="1663581269781" duration="5043000" />
+      <workItem from="1663654573278" duration="3495000" />
     </task>
+    <task id="LOCAL-00001" summary="ok">
+      <created>1663586325381</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663586325381</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

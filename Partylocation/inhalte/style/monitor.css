@@ -1,24 +1,41 @@
-body{
+body {
     font-family: Calibri sans-serif;
     font-size: 1.2em;
-    background-image: linear-gradient(45deg, blue, deeppink);
+    background-image: linear-gradient(90deg, blue, deeppink);
 }
-h1,h2{
+
+h1, h2 {
     font-weight: bold;
     color: white;
     text-shadow: 0.15em 0.1em 0.1em black;
 
 }
-#imBild{
+
+#anschrift, #liste, #spaß {
+    color: yellow;
+    text-shadow: 0.15em 0.1em 0.1em black;
+}
+
+td {
+    text-align: left;
+}
+
+th {
+    text-align: left;
+}
+
+#imBild {
     display: flex;
     flex-direction: column;
     background-image: url("../bilder/partylocation.PNG");
-    background-size: contain;
+    background-size: cover;
 
 }
-#dj{
+
+#dj {
     border-radius: 1em;
     float: right;
     margin-left: auto;
+
     box-shadow: 0.15em 0.1em 0.1em black;
 }
